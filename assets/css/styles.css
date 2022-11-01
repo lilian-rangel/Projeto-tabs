@@ -71,8 +71,18 @@ p {
     grid-template-rows: auto 1fr;
 }
 
+.btn-container{
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
 
-
+.sobre-content {
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    padding: 2rem 1.5rem;
+}
 
 .content {
     display: none;
