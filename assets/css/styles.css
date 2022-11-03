@@ -77,6 +77,27 @@ p {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
+.tab-btn:nth-child(1) {
+    border-top-left-radius: var(--radius);
+  }
+  .tab-btn:nth-child(3) {
+    border-top-right-radius: var(--radius);
+  }
+  .tab-btn {
+    padding: 1rem 0;
+    border: none;
+    text-transform: capitalize;
+    font-size: 1rem;
+    display: block;
+    background: var(--clr-grey-9);
+    cursor: pointer;
+    transition: var(--transition);
+    letter-spacing: var(--spacing);
+  }
+  .tab-btn:hover:not(.active) {
+    background: var(--clr-primary-10);
+    color: var(--clr-primary-5);
+  }
 
 .sobre-content {
     border-bottom-left-radius: 0.5rem;
