@@ -10,7 +10,7 @@ O que mais me desafiou foi automatizar uma galeria de fotos com JavaScript.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" data-canonical-src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
 <hr>
-<a href="" target="_blank">Confira o projeto nesse link</a>
+<a href="https://lilian-rangel.github.io/Projeto-portfolio/" target="_blank">Confira o projeto nesse link</a>
 <hr>
 <h2 align="center"> Print da página </h2>
 <br />
