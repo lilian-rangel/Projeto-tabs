@@ -1,9 +1,10 @@
-<h1>Projeto portfólio </h1> <br />
+<h1>Projeto portfólio </h1> <br>
 
-Terceiro projeto da mentoria entregue num prazo de 7 dias. <br />
-O objetivo era iniciar a criação de um protótipo de portfólio, demonstrando os conhecimentos em HTML5, CSS3, JavaScript e responsividade.<br />
-Com esse projeto aprendi um pouco mais sobre CSS Grid Layout e sobre a organização de conteúdo em tabs. 
-O que mais me desafiou foi automatizar uma galeria de fotos com JavaScript.
+Terceiro projeto da mentoria entregue num prazo de 7 dias. <br>
+O objetivo era iniciar a criação de um protótipo de portfólio, demonstrando os conhecimentos em HTML5, CSS3, JavaScript e responsividade.<br>
+
+Com esse projeto aprendi um pouco mais sobre CSS Grid Layout e sobre a organização de conteúdo em tabs. <br>
+O que mais me desafiou foi automatizar uma galeria de fotos com JavaScript.<br>
 
 <b>Desenvolvido utilizando as seguintes tecnologias </b><br />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
