@@ -14,11 +14,10 @@ body{
     background: linear-gradient(180deg, rgba(63,94,251,1) 0%, rgba(252,70,107,0.38139005602240894) 100%);
     background-repeat:no-repeat;
     line-height: 1.5;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
 }
 
-h2, 
-h4 {
+h2 {
 letter-spacing: 0.25rem;
 line-height: 1.25rem;
 margin-bottom: 0.75rem;
@@ -116,6 +115,13 @@ p {
     display: block;
 }
 
+ul{
+    list-style: none;
+    line-break: 0.5rem;
+}
+blockquote{
+    text-align: center;
+}
 
 .slider {
     margin: 0 auto;
@@ -153,4 +159,42 @@ p {
 
 #radio3:checked ~ .first {
     margin-left: -50%;
+}
+
+.rodape{
+    text-align: center;
+    padding: 10px;
+    border: 10px;
+}
+
+@media screen and (max-width: 992px) {
+    h2{
+        letter-spacing: none;
+        line-height: none;
+    }
+    body{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+        font-size: 1rem;
+    }
+    .sobre-img{
+        display: none;
+    }
+    .sobre-center{
+        display: flex;
+        flex-direction: column;
+    }
+    .slide img{
+        display: flex;
+        width: 100%;
+        height: 400px;
+    }
+    .slider {
+        margin: 0;
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+    }
 }
